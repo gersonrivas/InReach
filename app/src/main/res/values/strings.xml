@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InReach</string>
+    <string name="title_home">Home</string>
+    <string name="title_cards">Cards</string>
+    <string name="title_orders">Orders</string>
+
+    <string name="setting">Setting</string>
+
+    <string name="long_Text">
+
+        Here Orders
+        of User profile...
+
+    </string>
+
+</resources>
